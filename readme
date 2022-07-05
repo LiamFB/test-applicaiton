@@ -1,0 +1,9 @@
+Basic template 
+
+npm run dev to start dev server
+npm start to build
+
+use .env for enviroment variables:
+PORT
+
+TODO: Add tests to __Test__ folder.
