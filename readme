@@ -3,7 +3,10 @@ Basic template
 npm run dev to start dev server
 npm start to build
 
-use .env for enviroment variables:
-PORT
+to use create .env file with following code enviroment variables:
+PORT=8626
+DATABASE_URI="./notification.json"
 
 TODO: Add tests to __Test__ folder.
+
+
